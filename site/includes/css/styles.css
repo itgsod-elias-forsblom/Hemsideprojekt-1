@@ -130,3 +130,51 @@ ul.unstyled {
 #header {
 
 }
+
+#kontakt {
+    background: rgba(224, 224, 224, 0.95);
+    border-radius: 0.5%;
+}
+
+#kontaktknappar {
+    margin-left: 1000px;
+}
+
+#kontakttext {
+    margin-left: 48px;
+}
+
+#kontaktruta {
+    margin-top: 30px;
+}
+
+#kontaktrubrik {
+    margin-left: 40px;
+}
+
+#omosstext {
+    background: rgba(224, 224, 224, 0.95);
+    border-radius: 1%;
+}
+
+#omosstitel {
+    margin-left: 10px;
+
+}
+
+#omosstext2 {
+    margin-left: 10px;
+}
+
+#omosstext3 {
+    margin-left: 10px;
+}
+
+#ourrestaurant {
+    text-align: center;
+}
+
+#Recensionertext {
+    background: rgba(224, 224, 224, 0.95);
+    border-radius: 1%;
+}
